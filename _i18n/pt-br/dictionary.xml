@@ -101,4 +101,10 @@
   <block id="28e8b3e83af233fe7085ba954fc6fd36" category="sidebar">BeeGFS no NetApp com storage e-Series</block>
   <block id="c6ed86424e776eb55d39d911ea6a9183" category="sidebar">Use o BeeGFS no NetApp para criar e implantar uma infraestrutura alta disponível que combine o sistema de arquivos paralelos do BeeGFS com os sistemas de storage do NetApp EF600.</block>
   <block id="294d136d5efcf1648eafe92db6c5cf9e" category="sidebar">Documentação da família de produtos e-Series</block>
+  <block id="7e70e5b8ab3b4ffb0b5b632ee6ab89f2" category="section-title">E4000</block>
+  <block id="aac67bcdfabe5c8ff77e109f865c67ce" category="paragraph">Criado sob medida para otimizar a performance de workloads mistos, como análises, vigilância por vídeo, computação de alto desempenho (HPC) e backup/recuperação.</block>
+  <block id="b9a404aa80b6daaa6caf4816a0c4143e" category="inline-link">Leia mais sobre o modelo E4000</block>
+  <block id="dad10ed4eb5e6725a440492844234f9e" category="paragraph"><block ref="60e84386b57028b7db67ae48e7a7265e" category="inline-link-rx"></block>.</block>
+  <block id="d696eb7cc7c085860c6470600fcae988" category="inline-link">Leia a folha de dados E4000</block>
+  <block id="57cc76780bfa9c93468f080b877fc65b" category="paragraph"><block ref="b89ee95d84bff0c0eb605a0d520b1934" category="inline-link-rx"></block>.</block>
 </blocks>
